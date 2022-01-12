@@ -1,0 +1,1 @@
+D:\CSharp\FPT\T2012E_Helloworld\T2012E_Helloworld\T2012E_Helloworld.csproj;x86
